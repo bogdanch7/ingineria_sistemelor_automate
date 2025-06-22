@@ -37,7 +37,7 @@ Acest exercițiu se concentrează pe determinarea stabilității interne și ext
 Funcția ht:
 ht = 0.5/ (2s + 1) 
 
-Funcția he: Aceeași cu hp de la Exercițiul 1.
+Funcția he:
 he = (0.468s + 7.5)/ (0.043s^4 + 4.45s^3 + 8.15s^2 + 4.968s + 1)
 ​
 - Rădăcinile Funcțiilor (he)
