@@ -22,7 +22,7 @@ P3: 0 dB/decadă, între ω2​ și ω3 (aproximativ 10^2 rad/s).
 P4: -20 dB/decadă, după ω3.
 
 - Funcția de Transfer hp:
-hp = (0.468s+7.5)/ (0.043s^4 + 4.45s^3 + 8.15s^2 + 4.968s + 1​
+hp = (0.468s+7.5)/ (0.043s^4 + 4.45s^3 + 8.15s^2 + 4.968s + 1​)
  
 Aceasta este o funcție de transfer de ordinul patru.
 
